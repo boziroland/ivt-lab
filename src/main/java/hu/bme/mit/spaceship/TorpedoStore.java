@@ -28,6 +28,7 @@ public class TorpedoStore {
     }
   }
 
+  // creating and storing a new random number generator
   Random generator = new Random();
 
   public boolean fire(int numberOfTorpedos){
@@ -35,6 +36,7 @@ public class TorpedoStore {
       throw new IllegalArgumentException("numberOfTorpedos");
     }
 
+    //success flag
     boolean success = false;
 
     // simulate random overheating of the launcher bay which prevents firing
@@ -49,6 +51,7 @@ public class TorpedoStore {
       success = false;
     }
 
+    
     return success;
   }
 
