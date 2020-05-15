@@ -1,0 +1,5 @@
+1. Lövünk az elsődleges torpedóval
+2. Lövünk a másodlagos torpedóval is (kettőt lövünk)
+3. Megpróbálunk lőni az elsődleges torpedóval úgy, hogy az üres
+4. Lövünk mindkét torpedóval
+5. Megpróbálunk lőni úgy, hogy mindkét torpedó üres
